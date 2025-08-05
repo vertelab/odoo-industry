@@ -6,7 +6,7 @@ from collections import OrderedDict  # Glömde importera OrderedDict
 alternativ = {
     "helpdesk": ["helpdesk_mgmt", "helpdesk_mgmt_sale", "helpdesk_mgmt_timesheet"],
     "knowledge": ["document_page", "document_knowledge"],
-    "account_followup": ["document_page", "document_knowledge"],
+    "account_followup": ["document_page", "document_knowledge"], ## TODO
 }
 
 nix = ['web_studio']
