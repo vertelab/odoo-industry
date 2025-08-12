@@ -34,7 +34,7 @@ alternativ = {
     'industry_fsm_sale_report': [],
     'industry_fsm_stock': [],
     'knowledge': ["document_page", "document_knowledge"],
-    'marketing_automation': [],
+    'marketing_automation': ['automation_oca'],#https://github.com/OCA/automation/tree/18.0/automation_oca
     'mrp_plm': [],
     'mrp_workorder': [],
     'planning': ['planning_resources'],
