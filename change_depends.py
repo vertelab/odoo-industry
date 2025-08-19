@@ -57,7 +57,7 @@ alternativ = {
     'social': [],
     'social_push_notifications': [],
     'spreadsheet_sale_management': [],
-    'stock_barcode': ["stock_barcodes"],
+    'stock_barcode': ["stock_barcodes"],#https://github.com/OCA/stock-logistics-barcode/tree/16.0/stock_barcodes
     'stock_barcode_barcodelookup': [],
     'timesheet_grid': [],
     'website_appointment': [],
