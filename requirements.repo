@@ -1,1 +1,2 @@
 git@github.com:OCA/automation.git /usr/share/odooext-OCA-automation
+git@github.com:OCA/stock-logistics-barcode.git /usr/share/odooext-OCA-stock-logistics-barcode
