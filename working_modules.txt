@@ -1,0 +1,201 @@
+Checking on odoo-industry, do they load!? Yes or no!
+
+1. agriculture_shop = OK!
+2. architects
+Du försöker installera modulen "architects" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+3. art_craft = OK!
+4.automobile
+Du försöker installera modulen "automobile" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+5. bakery
+6. bar_industry
+Du försöker installera modulen "bar_industry" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+7. beverage_distributor
+Du försöker installera modulen "beverage_distributor" som är beroende av modulen "product_barcodelookup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+8. bike_leasing
+Du försöker installera modulen "bike_leasing" som är beroende av modulen "sale_planning".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+9. billboard_rental
+Du försöker installera modulen "billboard_rental" som är beroende av modulen "project_sale_subscription".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+10. bookstore
+Du försöker installera modulen "bookstore" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+11. bowling
+Du försöker installera modulen "bowling" som är beroende av modulen "pos_enterprise".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+12. cake_shop = OK!
+13. certification_organism
+Du försöker installera modulen "certification_organism" som är beroende av modulen "industry_fsm_sale_report".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+14. cleaning_services
+Du försöker installera modulen "cleaning_services" som är beroende av modulen "crm_sale_subscription".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+15. clothing_boutique = OK!
+16. coal_petroleum
+Du försöker installera modulen "coal_petroleum" som är beroende av modulen "account_asset".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+17. condominium
+Du försöker installera modulen "condominium" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+18. construction
+Du försöker installera modulen "construction" som är beroende av modulen "crm_enterprise".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+19. corporate_gifts
+Du försöker installera modulen "corporate_gifts" som är beroende av modulen "crm_enterprise".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+20. custom_furniture
+Du försöker installera modulen "custom_furniture" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+21. dropshipping
+Du försöker installera modulen "dropshipping" som är beroende av modulen "sale_planning".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+22 . electrician
+Du försöker installera modulen "electrician" som är beroende av modulen "crm_enterprise".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+23. electronic_store
+Du försöker installera modulen "electronic_store" som är beroende av modulen "documents_fsm".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+24. environmental_agency
+Du försöker installera modulen "environmental_agency" som är beroende av modulen "appointment_account_payment".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+25. excise_management = OK!
+26. eyewear_shop
+Du försöker installera modulen "eyewear_shop" som är beroende av modulen "appointment_crm".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+27. fast_food
+Du försöker installera modulen "fast_food" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+28. fitness
+Du försöker installera modulen "fitness" som är beroende av modulen "website_appointment".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+29. florist
+Du försöker installera modulen "florist" som är beroende av modulen "crm_enterprise".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+30. fmcg_store (grocery store)
+Du försöker installera modulen "fmcg_store" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+31. food_trucks
+Du försöker installera modulen "food_trucks" som är beroende av modulen "industry_fsm_sale".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+32. furniture_store = OK!
+33. gardening
+Du försöker installera modulen "gardening" som är beroende av modulen "industry_fsm_sale_report".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+34. hair_salon
+Du försöker installera modulen "hair_salon" som är beroende av modulen "website_appointment".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+35. handyman
+Du försöker installera modulen "handyman" som är beroende av modulen "account_accountant".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+36. hardware_shop = OK!
+37. headhunter
+Du försöker installera modulen "headhunter" som är beroende av modulen "appointment_crm".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+38. industry_lawyer
+Du försöker installera modulen "industry_lawyer" som är beroende av modulen "documents_project".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+39. industry_real_estate
+Du försöker installera modulen "industry_real_estate" som är beroende av modulen "crm_enterprise".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+40. industry_restaurant
+Du försöker installera modulen "industry_restaurant" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+41. it_hardware
+Du försöker installera modulen "it_hardware" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+42. marketing_agency
+Du försöker installera modulen "marketing_agency" som är beroende av modulen "crm_sale_subscription".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+43. micro_brewery
+Du försöker installera modulen "micro_brewery" som är beroende av modulen "appointment_crm".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+44. non_profit_organization = OK!
+45. odoo_partner
+Du försöker installera modulen "odoo_partner" som är beroende av modulen "appointment_account_payment".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+46. outdoor_activities
+Du försöker installera modulen "outdoor_activities" som är beroende av modulen "appointment_account_payment".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+47. personal_trainer
+Du försöker installera modulen "personal_trainer" som är beroende av modulen "appointment_hr".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+48. pharmacy_retail = OK!
+49. photography
+Du försöker installera modulen "photography" som är beroende av modulen "project_enterprise".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+50. shoe_maker
+Du försöker installera modulen "shoe_maker" som är beroende av modulen "industry_fsm_stock".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+51. software_reseller
+Du försöker installera modulen "software_reseller" som är beroende av modulen "sale_planning".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+52. solar_installation
+Du försöker installera modulen "solar_installation" som är beroende av modulen "account_followup".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+53. sports_club
+Du försöker installera modulen "sports_club" som är beroende av modulen "appointment_crm".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+54. surveyor
+Du försöker installera modulen "surveyor" som är beroende av modulen "documents".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+55. tattoo_shop
+Du försöker installera modulen "tattoo_shop" som är beroende av modulen "appointment_account_payment".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+56. tests = OK!
+57. toy_store = OK!
+58. wedding_planner
+Du försöker installera modulen "wedding_planner" som är beroende av modulen "crm_enterprise".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+59. wellness_practitioner
+Du försöker installera modulen "wellness_practitioner" som är beroende av modulen "appointment_account_payment".
+Men den senare modulen är inte tillgänglig i ditt system.
