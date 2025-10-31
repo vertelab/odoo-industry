@@ -409,12 +409,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:condominium.company_buildings
 #: model:ir.model.fields,field_description:condominium.company_ratios_field
 msgid "Company"
-msgstr "Företag"
+msgstr "Bolag"
 
 #. module: condominium
 #: model:ir.model.fields,field_description:condominium.x_company_partner_id
 msgid "Company partner"
-msgstr ""
+msgstr "Bolagspartner"
 
 #. module: condominium
 #: model:product.template,name:condominium.product_product_788_product_template
