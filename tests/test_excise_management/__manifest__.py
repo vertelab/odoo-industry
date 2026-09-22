@@ -6,4 +6,5 @@
     'depends': ['base'],
     'license': 'LGPL-3',
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/test_excise_management',
 }

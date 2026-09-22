@@ -1,4 +1,5 @@
 {
+    'website': 'https://vertel.se/apps/odoo-industry/test_bookstore',
     'name': 'Test Bookstore',
     'version': '1.0',
     'category': 'Hidden/Tests',

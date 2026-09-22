@@ -48,6 +48,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/photography',
     "cloc_exclude": [
         "data/knowledge_article.xml",
         "data/website_view.xml",

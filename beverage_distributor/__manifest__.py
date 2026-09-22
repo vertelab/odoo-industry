@@ -84,5 +84,6 @@
     ],
     'license': 'OPL-1',
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/beverage_distributor',
     'images': ['images/main.png'],
 }

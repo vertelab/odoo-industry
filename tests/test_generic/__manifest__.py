@@ -1,4 +1,5 @@
 {
+    'website': 'https://vertel.se/apps/odoo-industry/test_generic',
     'name': 'test',
     'version': '1.0',
     'category': 'Hidden/Tests',

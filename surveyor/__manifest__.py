@@ -54,6 +54,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/surveyor',
     'images': ['images/main.png'],
     "cloc_exclude": [
         "data/knowledge_article.xml",

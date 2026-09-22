@@ -63,5 +63,6 @@
     ],
     'license': 'OPL-1',
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/bookstore',
     'images': ['images/main.png'],
 }

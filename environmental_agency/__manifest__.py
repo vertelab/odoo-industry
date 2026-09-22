@@ -3,6 +3,7 @@
     'version': '1.0',
     'category': 'Services',
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/environmental_agency',
     'depends': [
         'appointment_account_payment',
         'crm_enterprise',

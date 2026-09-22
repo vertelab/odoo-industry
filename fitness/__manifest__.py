@@ -75,6 +75,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/fitness',
     "cloc_exclude": [
         "data/appointment_view.xml",
         "data/knowledge_article.xml",

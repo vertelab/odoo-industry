@@ -91,6 +91,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/solar_installation',
     "cloc_exclude": [
         "data/qweb_view.xml",
         "data/knowledge_article.xml",

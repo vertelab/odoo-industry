@@ -76,6 +76,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/art_craft',
     "cloc_exclude": [
         "data/knowledge_article.xml",
         "data/qweb_view.xml",

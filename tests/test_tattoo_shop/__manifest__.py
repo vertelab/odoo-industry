@@ -1,4 +1,5 @@
 {
+    'website': 'https://vertel.se/apps/odoo-industry/test_tattoo_shop',
     'name': 'Test Industry Tattoo Shop',
     'version': '1.0',
     'category': 'Hidden/Tests',

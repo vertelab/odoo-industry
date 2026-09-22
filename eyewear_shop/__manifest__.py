@@ -78,6 +78,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/eyewear_shop',
     "cloc_exclude": [
         "data/qweb_view.xml",
         "data/website_view.xml",

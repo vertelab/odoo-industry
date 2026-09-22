@@ -87,6 +87,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/electronic_store',
     "cloc_exclude": [
         "data/qweb_view.xml",
         "data/knowledge_article.xml",

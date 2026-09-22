@@ -60,6 +60,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/architects',
     "cloc_exclude": [
         "data/knowledge_article.xml",
         "static/src/js/my_tour.js",

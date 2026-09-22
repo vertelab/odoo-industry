@@ -3,6 +3,7 @@
   'version': '1.0',
   'category': 'Hospitality',
   'author': 'Odoo S.A.',
+  'website': 'https://vertel.se/apps/odoo-industry/food_trucks',
   'depends': [
       'industry_fsm_sale',
       'knowledge',

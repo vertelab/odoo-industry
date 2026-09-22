@@ -59,6 +59,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/billboard_rental',
     "cloc_exclude": [
         "data/knowledge_article.xml",
         "data/qweb_view.xml",

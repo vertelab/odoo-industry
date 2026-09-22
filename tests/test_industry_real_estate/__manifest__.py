@@ -1,4 +1,5 @@
 {
+    'website': 'https://vertel.se/apps/odoo-industry/test_industry_real_estate',
     'name': 'Test Industry Real Estate',
     'version': '1.0',
     'category': 'Hidden/Tests',

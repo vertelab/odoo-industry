@@ -3,6 +3,7 @@
     'version': '1.0',
     'category': 'Inventory/Inventory',
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/excise_management',
     'depends': [
         'account_tax_python',
         'base_automation',

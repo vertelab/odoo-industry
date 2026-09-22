@@ -57,6 +57,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/certification_organism',
     "cloc_exclude": [
         "data/qweb_view.xml",
         "data/knowledge_article.xml",

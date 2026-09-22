@@ -61,6 +61,7 @@
     ],
     'license': 'OPL-1',
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/sports_club',
     'images': ['images/main.png'],
     'assets': {
         'web.assets_backend': [

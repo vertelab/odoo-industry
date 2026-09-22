@@ -53,6 +53,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/outdoor_activities',
     'cloc_exclude': [
         'data/knowledge_article.xml',
         'demo/website_views.xml',

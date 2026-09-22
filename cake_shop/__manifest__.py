@@ -50,6 +50,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/cake_shop',
     "cloc_exclude": [
         "data/knowledge_article.xml",
         "static/src/js/my_tour.js",

@@ -56,5 +56,6 @@
     ],
     'license': 'OPL-1',
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/fast_food',
     'images': ['images/main.png'],
 }

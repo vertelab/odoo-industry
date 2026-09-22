@@ -3,6 +3,7 @@
     'version': '1.0',
     'category': 'Retail',
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/florist',
     'depends': [
         'crm_enterprise',
         'knowledge',

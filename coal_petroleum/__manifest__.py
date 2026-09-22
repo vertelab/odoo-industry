@@ -60,6 +60,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/coal_petroleum',
     "cloc_exclude": [
         "data/qweb_view.xml",
         "data/knowledge_article.xml",

@@ -3,6 +3,7 @@
     'version': '1.0',
     'category': 'Services',
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/wedding_planner',
     'depends': [
         'crm_enterprise',
         'hr_calendar',

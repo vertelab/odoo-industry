@@ -42,6 +42,7 @@
         ]
     },
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/personal_trainer',
     'images': ['images/main.png'],
     "cloc_exclude": [
         "data/knowledge_article.xml",

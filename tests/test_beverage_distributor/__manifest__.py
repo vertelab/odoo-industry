@@ -5,5 +5,6 @@
     'description': """A module to test code in the Beverage distributor industry module.""",
     'depends': ['base'],
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/test_beverage_distributor',
     'license': 'LGPL-3',
 }

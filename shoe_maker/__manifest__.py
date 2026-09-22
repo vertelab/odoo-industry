@@ -3,6 +3,7 @@
     'version': '1.0',
     'category': 'Services',
     'author': 'Odoo S.A.',
+    'website': 'https://vertel.se/apps/odoo-industry/shoe_maker',
     'depends': [
         'industry_fsm_stock',
         'knowledge',
