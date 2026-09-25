@@ -1,6 +1,17 @@
 {
     'name': 'Dropshipping',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Dropshipping.",
+    'description': '''
+Dropshipping
+============
+
+    Demo data and configuration for Dropshipping.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'depends': [
             'calendar',

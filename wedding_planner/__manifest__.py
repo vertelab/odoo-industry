@@ -1,6 +1,17 @@
 {
     'name': 'Wedding Planner',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Wedding Planner.",
+    'description': '''
+Wedding Planner
+===============
+
+    Demo data and configuration for Wedding Planner.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'author': 'Odoo S.A.',
     'website': 'https://vertel.se/apps/odoo-industry/wedding_planner',

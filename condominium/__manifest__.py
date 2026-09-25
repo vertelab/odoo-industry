@@ -1,6 +1,17 @@
 {
     'name': 'Property Owner Association',
-    'version': '1.3',
+    'summary': "Demo data and configuration for Property Owner Association.",
+    'description': '''
+Property Owner Association
+==========================
+
+    Demo data and configuration for Property Owner Association.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.3.0',
     'category': 'Services',
     'depends': [
         'account_check_printing',

@@ -1,6 +1,17 @@
 {
     'name': 'Billboard Rental',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Billboard Rental.",
+    'description': '''
+Billboard Rental
+================
+
+    Demo data and configuration for Billboard Rental.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'depends': [
         'hr',

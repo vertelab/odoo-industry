@@ -1,6 +1,17 @@
 {
     'name': 'Electronic Store',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Electronic Store.",
+    'description': '''
+Electronic Store
+================
+
+    Demo data and configuration for Electronic Store.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Retail',
     'depends': [
         'crm',

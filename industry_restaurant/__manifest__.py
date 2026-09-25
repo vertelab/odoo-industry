@@ -1,6 +1,17 @@
 {
     'name': 'Fine Dining Restaurant',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Fine Dining Restaurant.",
+    'description': '''
+Fine Dining Restaurant
+======================
+
+    Demo data and configuration for Fine Dining Restaurant.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Hospitality',
     'depends': [
         'account_followup',

@@ -1,6 +1,17 @@
 {
     'name': 'Bakery Shop',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Bakery Shop.",
+    'description': '''
+Bakery Shop
+===========
+
+    Demo data and configuration for Bakery Shop.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Retail',
     'author': 'Odoo S.A.',
     'website': 'https://vertel.se/apps/odoo-industry/bakery',

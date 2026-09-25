@@ -1,6 +1,17 @@
 {
     'name': 'Microbrewery',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Microbrewery.",
+    'description': '''
+Microbrewery
+============
+
+    Demo data and configuration for Microbrewery.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Supply Chain',
     'depends': [
         'account',

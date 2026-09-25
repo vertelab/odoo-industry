@@ -1,6 +1,17 @@
 {
   'name': 'Food Trucks',
-  'version': '1.0',
+  'summary': "Demo data and configuration for Food Trucks.",
+    'description': '''
+Food Trucks
+===========
+
+    Demo data and configuration for Food Trucks.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+  'version': '18.0.1.0.0',
   'category': 'Hospitality',
   'author': 'Odoo S.A.',
   'website': 'https://vertel.se/apps/odoo-industry/food_trucks',

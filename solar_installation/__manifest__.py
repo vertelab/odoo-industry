@@ -1,6 +1,17 @@
 {
     'name': 'Solar Energy Systems',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Solar Energy Systems.",
+    'description': '''
+Solar Energy Systems
+====================
+
+    Demo data and configuration for Solar Energy Systems.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Construction',
     'depends': [
         'account_followup',

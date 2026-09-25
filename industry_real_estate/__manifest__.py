@@ -1,6 +1,17 @@
 {
     'name': 'Real Estate',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Real Estate.",
+    'description': '''
+Real Estate
+===========
+
+    Demo data and configuration for Real Estate.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'depends': [
         'base_automation',

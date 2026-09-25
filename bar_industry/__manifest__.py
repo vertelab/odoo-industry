@@ -1,6 +1,17 @@
 {
     'name': 'Bar & Pub',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Bar & Pub.",
+    'description': '''
+Bar & Pub
+=========
+
+    Demo data and configuration for Bar & Pub.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Hospitality',
     'depends': [
         'account_followup',

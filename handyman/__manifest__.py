@@ -1,6 +1,17 @@
 {
     'name': 'Handyman Services',
-    'version': '1.2',
+    'summary': "Demo data and configuration for Handyman Services.",
+    'description': '''
+Handyman Services
+=================
+
+    Demo data and configuration for Handyman Services.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.2.0',
     'category': 'Services',
     'depends': [
         'account_accountant',

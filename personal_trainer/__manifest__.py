@@ -1,6 +1,17 @@
 {
     'name': 'Personal Trainer',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Personal Trainer.",
+    'description': '''
+Personal Trainer
+================
+
+    Demo data and configuration for Personal Trainer.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Health and Fitness',
     'depends': [
         'appointment_hr',

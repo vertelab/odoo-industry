@@ -1,6 +1,17 @@
 {
     'name': 'Custom Furniture Production',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Custom Furniture Production.",
+    'description': '''
+Custom Furniture Production
+===========================
+
+    Demo data and configuration for Custom Furniture Production.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Supply Chain',
     'depends': [
         'account_followup',

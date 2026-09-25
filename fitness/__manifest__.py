@@ -1,6 +1,17 @@
 {
     'name': 'Fitness Center',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Fitness Center.",
+    'description': '''
+Fitness Center
+==============
+
+    Demo data and configuration for Fitness Center.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Health and Fitness',
     'depends': [
         'calendar',

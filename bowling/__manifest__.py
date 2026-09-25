@@ -1,6 +1,17 @@
 {
     'name': 'Bowling Alleys',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Bowling Alleys.",
+    'description': '''
+Bowling Alleys
+==============
+
+    Demo data and configuration for Bowling Alleys.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Hospitality',
     'depends': [
         'knowledge',

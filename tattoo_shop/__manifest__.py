@@ -1,6 +1,17 @@
 {
     'name': 'Tattoo Shop',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Tattoo Shop.",
+    'description': '''
+Tattoo Shop
+===========
+
+    Demo data and configuration for Tattoo Shop.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'author': 'Odoo S.A.',
     'website': 'https://vertel.se/apps/odoo-industry/tattoo_shop',

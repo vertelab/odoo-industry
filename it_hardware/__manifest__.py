@@ -1,6 +1,17 @@
 {
     'name': 'IT Hardware & Support',
-    'version': '1.1',
+    'summary': "Demo data and configuration for IT Hardware & Support.",
+    'description': '''
+IT Hardware & Support
+=====================
+
+    Demo data and configuration for IT Hardware & Support.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.1.0',
     'category': 'Services',
     'depends': [
         'account_followup',

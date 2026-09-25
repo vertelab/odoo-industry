@@ -1,6 +1,17 @@
 {
     'name': 'Environmental Agency',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Environmental Agency.",
+    'description': '''
+Environmental Agency
+====================
+
+    Demo data and configuration for Environmental Agency.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'author': 'Odoo S.A.',
     'website': 'https://vertel.se/apps/odoo-industry/environmental_agency',

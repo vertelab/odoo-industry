@@ -1,6 +1,17 @@
 {
     'name': 'Marketing Agency',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Marketing Agency.",
+    'description': '''
+Marketing Agency
+================
+
+    Demo data and configuration for Marketing Agency.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'author': 'Odoo S.A.',
     'website': 'https://vertel.se/apps/odoo-industry/marketing_agency',

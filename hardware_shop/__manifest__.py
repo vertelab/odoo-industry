@@ -1,6 +1,17 @@
 {
     'name': 'Hardware Store',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Hardware Store.",
+    'description': '''
+Hardware Store
+==============
+
+    Demo data and configuration for Hardware Store.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Retail',
     'depends': [
         'barcodes',

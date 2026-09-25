@@ -1,6 +1,17 @@
 {
     'name': 'Fast Food',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Fast Food.",
+    'description': '''
+Fast Food
+=========
+
+    Demo data and configuration for Fast Food.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Hospitality',
     'depends': [
         'account_followup',

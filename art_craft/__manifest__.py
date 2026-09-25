@@ -1,6 +1,17 @@
 {
     'name': 'Arts & Crafts Store',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Arts & Crafts Store.",
+    'description': '''
+Arts & Crafts Store
+===================
+
+    Demo data and configuration for Arts & Crafts Store.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Retail',
     'depends': [
         'hr_hourly_cost',

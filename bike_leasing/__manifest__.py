@@ -1,6 +1,17 @@
 {
     'name': 'Bike Leasing',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Bike Leasing.",
+    'description': '''
+Bike Leasing
+============
+
+    Demo data and configuration for Bike Leasing.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'depends': [
         'base_automation',

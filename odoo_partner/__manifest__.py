@@ -1,6 +1,17 @@
 {
     'name': 'Odoo Partner',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Odoo Partner.",
+    'description': '''
+Odoo Partner
+============
+
+    Demo data and configuration for Odoo Partner.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'depends': [
         'appointment_account_payment',

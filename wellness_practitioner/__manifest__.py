@@ -1,6 +1,17 @@
 {
     'name': 'Wellness Practitioner',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Wellness Practitioner.",
+    'description': '''
+Wellness Practitioner
+=====================
+
+    Demo data and configuration for Wellness Practitioner.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Health and Fitness',
     'depends': [
         'appointment_account_payment',

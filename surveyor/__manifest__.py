@@ -1,6 +1,17 @@
 {
     'name': 'Surveying & Mapping',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Surveying & Mapping.",
+    'description': '''
+Surveying & Mapping
+===================
+
+    Demo data and configuration for Surveying & Mapping.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'depends': [
         'base_automation',

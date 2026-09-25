@@ -1,6 +1,17 @@
 {
     'name': 'Florist',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Florist.",
+    'description': '''
+Florist
+=======
+
+    Demo data and configuration for Florist.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Retail',
     'author': 'Odoo S.A.',
     'website': 'https://vertel.se/apps/odoo-industry/florist',

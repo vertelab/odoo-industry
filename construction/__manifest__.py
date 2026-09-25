@@ -1,6 +1,17 @@
 {
     'name': 'Construction',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Construction.",
+    'description': '''
+Construction
+============
+
+    Demo data and configuration for Construction.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Construction',
     'depends': [
         'crm_enterprise',

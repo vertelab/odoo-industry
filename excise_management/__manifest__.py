@@ -1,6 +1,17 @@
 {
     'name': 'Excise Management',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Excise Management.",
+    'description': '''
+Excise Management
+=================
+
+    Demo data and configuration for Excise Management.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Inventory/Inventory',
     'author': 'Odoo S.A.',
     'website': 'https://vertel.se/apps/odoo-industry/excise_management',

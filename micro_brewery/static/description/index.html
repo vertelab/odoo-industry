@@ -1,48 +1,100 @@
-<h2><strong>Odoo for Microbreweries</strong></h2>
-<p>This industry package includes everything you need to run your company efficiently with Odoo.</p>
-<p>
-    Discover everything you need to know about this package by visiting the <strong><font class="text-o-color-1">Knowledge App</font></strong> after installing it.
-</p>
-<h3><strong>Basics</strong></h3>
-<ul>
-    <li>
-        Manage stock, consignments, and warehouse operations with the <strong><font class="text-o-color-1">Inventory App</font></strong>.
-    </li>
-    <li>
-        Handle your production processes using the <strong><font class="text-o-color-1">Manufacture App</font></strong>.
-    </li>
-    <li>
-        Streamline client orders and manage your product catalog with the <strong><font class="text-o-color-1">Sales App</font></strong>.
-    </li>
-    <li>
-        Track leads, manage your sales pipeline, and nurture client relationships with the <strong><font class="text-o-color-1">CRM</font></strong>.
-    </li>
-    <li>
-        Order from suppliers and manage your supply chain with the <strong><font class="text-o-color-1">Purchase App</font></strong>.
-    </li>
-    <li>
-        Enhance your B2C sales process with the <strong><font class="text-o-color-1">Point of Sale App</font></strong>.
-    </li>
-    <li>
-        Expand your business with a <strong><font class="text-o-color-1">B2B/B2C eCommerce Website</font></strong> for online ordering.
-    </li>
-    <li>
-        Maintain a detailed database of clients and suppliers using the <strong><font class="text-o-color-1">Contacts App</font></strong>.
-    </li>
-</ul>
-<h3><strong>Included Customizations</strong></h3>
-<ul>
-    <li>
-        Additional fields on products to manage deposits, including:
-        <ul>
-            <li><em>Deposit Product</em></li>
-            <li><em>Quantity by Deposit Product</em></li>
-            <li><em>Unit Sale Product</em></li>
-            <li><em>Empty Deposit Product</em></li>
-        </ul>
-    </li>
-    <li>Automatic addition of taxes from the <em>Deposit Product</em> to the main product.</li>
-    <li>Automatic creation of a "00" reordering rule for products selected in the <em>Unit Sale Product</em> field, with a manufacturing route.</li>
-    <li>Auto-creation of a Bill of Materials (BOM) based on the <em>Unit Sale Product</em>, allowing the specified quantity of the <em>Unit Sale Product</em> to be produced from one unit of the main product.</li>
-    <li>An additional <em>Auto-production</em> field on the BOM ensures that manufacturing orders for this BOM are automatically produced.</li>
-</ul>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Microbrewery &mdash; Vertel for Odoo</title>
+  <style>
+    :root { --navy:#0F172A; --darkBg:#1E293B; --white:#F8FAFC; --gray:#94A3B8;
+             --lightGray:#E2E8F0; --brand:#930a57; --brand2:#8105a7; }
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { font-family:Inter,system-ui,-apple-system,sans-serif; color:var(--darkBg);
+            background:var(--white); line-height:1.6; }
+    .hero { background:linear-gradient(135deg,var(--brand),var(--brand2)); color:var(--white);
+             padding:48px 32px; text-align:center; }
+    .hero h1 { font-size:2.25rem; font-weight:800; margin-bottom:8px; }
+    .hero .subtitle { font-size:1.1rem; color:#f3d7e6; }
+    .hero .meta { margin-top:16px; font-size:0.85rem; color:#e8b8d2; }
+    .hero .meta span { margin:0 8px; }
+    .container { max-width:860px; margin:0 auto; padding:40px 24px; }
+    section { margin-bottom:40px; }
+    section h2 { font-size:1.5rem; font-weight:700; color:var(--navy);
+                  margin-bottom:16px; padding-bottom:8px; border-bottom:2px solid var(--brand); }
+    section p, section li { font-size:1rem; color:#334155; }
+    section p { margin-bottom:12px; }
+    section ul { padding-left:24px; }
+    section li { margin-bottom:8px; }
+    .feature-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+                     gap:16px; margin-top:16px; }
+    .feature-card { background:#F1F5F9; border-radius:8px; padding:20px;
+                     border-left:4px solid var(--brand); }
+    .feature-card h4 { font-size:1rem; font-weight:600; color:var(--navy); margin-bottom:6px; }
+    .feature-card p { font-size:0.9rem; color:#475569; margin:0; }
+    .screenshots { display:flex; flex-wrap:wrap; gap:24px; align-items:flex-start; }
+    .screenshots figure { margin:0; text-align:center; }
+    .screenshots img { display:block; border-radius:8px;
+                        box-shadow:0 2px 8px rgba(0,0,0,0.08);
+                        border:1px solid var(--lightGray); }
+    .screenshots figcaption { margin-top:8px; font-size:0.8rem; color:var(--gray); }
+    footer { background:var(--navy); color:var(--white); text-align:center;
+              padding:32px 24px; font-size:0.9rem; }
+    footer a { color:#f3d7e6; text-decoration:none; }
+  </style>
+</head>
+<body>
+<div class="hero">
+  <h1>Microbrewery</h1>
+  <p class="subtitle">Demo data and configuration for Microbrewery.</p>
+  <div class="meta">
+    <span>Odoo 18.0</span><span>&middot;</span>
+    <span>Supply Chain</span><span>&middot;</span>
+    <span>by Vertel Sverige AB</span>
+  </div>
+</div>
+<div class="container">
+  <section id="overview">
+    <h2>Overview</h2>
+    <p>Demo data and configuration for Microbrewery.</p>
+  </section>
+  <section id="features">
+    <h2>Key Features</h2>
+    <div class="feature-grid">
+      <div class="feature-card"><h4>Demo data</h4><p>Ships pre-configured demo data for the industry.</p></div>
+    </div>
+  </section>
+  <section id="screenshots">
+    <h2>Module Graphics</h2>
+    <div class="screenshots">
+      <figure>
+        <img src="icon.png" alt="Microbrewery icon" width="140" height="140">
+        <figcaption>Icon &mdash; 140 &times; 140 px</figcaption>
+      </figure>
+      <figure>
+        <img src="banner.png" alt="Microbrewery banner" width="560" height="280">
+        <figcaption>Banner &mdash; 560 &times; 280 px</figcaption>
+      </figure>
+    </div>
+  </section>
+  <section id="dependencies">
+    <h2>Dependencies</h2>
+    <ul><li><code>account</code></li><li><code>appointment_crm</code></li><li><code>base_automation</code></li><li><code>knowledge</code></li><li><code>mrp_plm</code></li><li><code>mrp_subcontracting</code></li><li><code>pos_restaurant</code></li><li><code>pos_sale</code></li><li><code>sale_purchase</code></li><li><code>sale_renting</code></li><li><code>web_studio</code></li><li><code>website_appointment</code></li><li><code>website_sale_stock</code></li></ul>
+    <p><small>Requires <strong>Odoo 18.0</strong> or later.</small></p>
+  </section>
+  <section id="installation">
+    <h2>Installation</h2>
+    <p>Install the module <code>micro_brewery</code> from the Odoo Apps menu,
+       or deploy it via the Vertel SaltStack pipeline.</p>
+  </section>
+  <section id="support">
+    <h2>Support &amp; Contact</h2>
+    <p>Vertel Sverige AB &mdash; <a href="https://vertel.se">vertel.se</a> &middot;
+       <a href="mailto:info@vertel.se">info@vertel.se</a></p>
+  </section>
+</div>
+<footer>
+  <p><strong>Microbrewery</strong> &mdash; by <a href="https://vertel.se">Vertel Sverige AB</a></p>
+  <p><a href="https://vertel.se">vertel.se</a> &middot;
+     <a href="mailto:info@vertel.se">info@vertel.se</a></p>
+</footer>
+</body>
+</html>

@@ -1,6 +1,17 @@
 {
     'name': 'Fossil Fuel Trading',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Fossil Fuel Trading.",
+    'description': '''
+Fossil Fuel Trading
+===================
+
+    Demo data and configuration for Fossil Fuel Trading.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Supply Chain',
     'depends': [
         'account_asset',

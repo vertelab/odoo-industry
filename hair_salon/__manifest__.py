@@ -1,6 +1,17 @@
 {
     'name': 'Hair Salon',
-    'version': '1.1',
+    'summary': "Demo data and configuration for Hair Salon.",
+    'description': '''
+Hair Salon
+==========
+
+    Demo data and configuration for Hair Salon.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.1.0',
     'category': 'Services',
     'depends': [
         'base_automation',

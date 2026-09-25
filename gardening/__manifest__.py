@@ -1,6 +1,17 @@
 {
     'name': 'Gardening',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Gardening.",
+    'description': '''
+Gardening
+=========
+
+    Demo data and configuration for Gardening.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Construction',
     'depends': [
         'industry_fsm_sale_report',

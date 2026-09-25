@@ -1,6 +1,17 @@
 {
     'name': 'Shoe Maker',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Shoe Maker.",
+    'description': '''
+Shoe Maker
+==========
+
+    Demo data and configuration for Shoe Maker.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'author': 'Odoo S.A.',
     'website': 'https://vertel.se/apps/odoo-industry/shoe_maker',

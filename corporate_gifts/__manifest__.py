@@ -1,6 +1,17 @@
 {
     'name': 'Corporate Gifts',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Corporate Gifts.",
+    'description': '''
+Corporate Gifts
+===============
+
+    Demo data and configuration for Corporate Gifts.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Supply Chain',
     'depends': [
         'base_automation',

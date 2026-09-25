@@ -1,6 +1,17 @@
 {
     'name': 'Software Reseller',
-    'version': '1.0',
+    'summary': "Demo data and configuration for Software Reseller.",
+    'description': '''
+Software Reseller
+=================
+
+    Demo data and configuration for Software Reseller.
+
+    Features:
+
+        - Demo Data: Ships pre-configured demo data for the industry.
+    ''',
+    'version': '18.0.1.0.0',
     'category': 'Services',
     'depends': [
         'knowledge',
